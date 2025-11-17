@@ -1,18 +1,18 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SIDI EBEIDY/SIDI EBEIDY/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/SIDI EBEIDY" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SIDI EBEIDY/SIDI EBEIDY/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/SIDI EBEIDY" alt="Workspace"  width="40%"/><br> 
+<img src="https://github.com/SidiEbeidy/SidiEbeidy/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SidiEbeidy/SidiEbeidy/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
 <details>
-<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
+<p><strong> <summary> Busy coding & Vibing to : </summary> </strong></p>
 
-[![Spotify](https://spotify-readme.SIDI EBEIDY.vercel.app/api/spotify)](https://open.spotify.com/user/Sidi Ebeidy ) <be>
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
 
 </details>
 
-![Totals Hits](https://komarev.com/ghpvc/?username=SIDI EBEIDY&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSIDI EBEIDY&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/SIDI EBEIDY-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
+![Totals Hits](https://komarev.com/ghpvc/?username=SidiEbeidy&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSidiEbeidy&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+[![telegram badge](https://img.shields.io/badge/SidiEbeidy-grey?style=flat&logo=telegram)](https://t.me/sidi_ebeidy) <br>
 </div>
 
 <hr></hr>
@@ -36,15 +36,17 @@
 ![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=flat&logo=neovim&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
 ![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
 ![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white)
 ![Gimp](https://img.shields.io/badge/gimp-5C5543?style=flat&logo=gimp&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
 ![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white)
 
@@ -53,50 +55,12 @@
 
 class About extends Me { 
   const myTools = {  
-    "ProgramingLanguages" : { "Python", "Javascript"},
-    "OtherLanguages" : { "HTML", "CSS"},
-    "Database" : { "Mongodb", "Sqlite", "PostgreSql" },
-    "Editors" : { "Vscode", "Xcode", "Sublime", "Neovim" },
-    "Platforms" : { , "Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma"}
+    "ProgrammingLanguages" : { "Python", "Javascript", "Dart", "Go", "Java", "C++" },
+    "WebFrameworks" : { "Next.js", "React", "Node.js" },
+    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
+    "Database" : { "Firebase", "SQLite", "MongoDB", "MySQL", "PostgreSQL" },
+    "Editors" : { "VSCode", "Xcode", "Sublime", "Neovim" },
+    "Platforms" : { "Mac", "GNU/Linux", "Windows" },
+    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
   };
 }
-```
-
--  <img alt="GIF" src="https://github.com/SIDI EBEIDY/SIDI EBEIDY/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Frappe**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-- <img src="https://github.com/SIDI EBEIDY/SIDI EBEIDY/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
-- <img src="https://github.com/SIDI EBEIDY/SIDI EBEIDY/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
-- <img src="https://github.com/SIDI EBEIDY/SIDI EBEIDY/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/spxd007)**<br>
-- &nbsp;&nbsp;<img src="https://github.com/SIDI EBEIDY/SIDI EBEIDY/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
-
-<div align="center" >
-<a  href="https://github.com/SIDI EBEIDY">
-
-<img src="https://raw.githubusercontent.com/SIDI EBEIDY/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SIDI EBEIDY/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SIDI EBEIDY/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-
-</a>
-
-<details>
-  <summary>More stats</summary>
-  
-<img align="center" src="https://raw.githubusercontent.com/SIDI EBEIDY/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
-
-</details>
-  
-<hr></hr>
-
-**Code Cycle**<br>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
-
-
-<!--img src="https://github.com/SIDI EBEIDY/SIDI EBEIDY/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
-
-</div>
-
