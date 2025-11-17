@@ -31,6 +31,14 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
 
 ```dart
 // tools_I_use organized
@@ -41,6 +49,7 @@ class About extends Me {
     "WebFrameworks" : { "Next.js", "React", "Node.js" },
     "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
     "Database" : {  "SQLite", "MongoDB", "MySQL", "PostgreSQL" },
+    "MachineLearning" : { "TensorFlow", "PyTorch", "Keras", "Scikit-Learn", "OpenCV", "Numpy", "Pandas", "Matplotlib" },
     "Platforms" : {  "GNU/Linux", "Windows" },
     "OtherTools" : { "Git", "Figma"}
   };
